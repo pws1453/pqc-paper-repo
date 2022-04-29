@@ -1,4 +1,4 @@
-﻿Keyphrase,Occurrences
+Keyphrase,Occurences
 zero-knowledge,16
 security,16
 proof,15
@@ -166,7 +166,7 @@ blockchain-based,2
 computational,2
 hardness,2
 fully,2
--zero-knowledge,2
+#NAME?,2
 simulator,2
 message,2
 oracle,2

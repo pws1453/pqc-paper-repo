@@ -1,4 +1,4 @@
-ï»¿Keyphrase,Occurences
+Keyphrase,Occurences
 cryptographic,7
 quantum,7
 zero-knowledge,6
@@ -35,7 +35,10 @@ validation,2
 strategies,2
 zkrp,2
 boudot,2
+cryptology—eurocrypt,2
+cryptology—asiacrypt,2
 bulletproofs,2
+bünz,2
 efficient,2
 optimizations,2
 trusted,2

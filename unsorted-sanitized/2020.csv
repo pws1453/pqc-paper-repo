@@ -3,7 +3,7 @@ post-quantum-cryptography, 2
 standardization, 2
 algorithms, 10
 requirements, 2
-security, 11
+security, 12
 performance, 10
 analysis, 7
 review, 2
@@ -13,7 +13,7 @@ encryption, 6
 digital-signatures, 2
 crystals-dilithium, 2
 picnic, 2
-cryptographic, 8
+cryptographic, 9
 port, 2
 knocking, 2
 method, 3
@@ -34,14 +34,14 @@ resulted, 2
 increase, 3
 design, 5
 preventing, 2
-solutions, 2
+solutions, 3
 realising, 2
 potential, 3
 novel, 3
 solution, 2
 named, 4
 crucible, 2
-secure, 5
+secure, 6
 authentication, 4
 usability, 2
 features, 3
@@ -72,13 +72,13 @@ np, 2
 reduced, 2
 state, 4
 applications, 7
-proofs, 4
+proofs, 5
 develop, 4
 propose, 7
 framework, 3
 provides, 2
 independently, 2
-zero-knowledge, 9
+zero-knowledge, 10
 system, 7
 protocol, 7
 knowledge, 4
@@ -124,7 +124,8 @@ attribute, 2
 application, 2
 scope, 3
 classical, 3
-technique, 2
+learning, 2
+technique, 3
 development, 2
 research, 3
 elliptic, 3
@@ -133,7 +134,7 @@ discrete, 2
 logarithm, 2
 post-quantum, 7
 quantum-resistant, 4
-signature, 4
+signature, 5
 algorithm, 3
 latency, 4
 tls, 2
@@ -145,7 +146,7 @@ conditions, 2
 impact, 3
 session, 2
 throughput, 2
-signatures, 2
+signatures, 3
 overhead, 3
 in-depth, 3
 protocols, 2
@@ -160,7 +161,7 @@ capable, 2
 synthesis, 2
 high-level, 2
 hls, 2
-tool, 4
+tool, 5
 c, 2
 code, 2
 generate, 2
@@ -178,7 +179,7 @@ implementation, 2
 minimal, 2
 asic-specific, 2
 implementations, 2
-lattice-based, 3
+lattice-based, 4
 primitives, 2
 digital-signature, 4
 schemes, 4
@@ -201,6 +202,7 @@ cryptography, 6
 library, 2
 extensive, 5
 measure, 2
+link, 2
 project, 2
 mechanisms, 2
 distributed, 3
@@ -211,7 +213,7 @@ transparency, 5
 redundancy, 3
 accountability, 3
 provided, 3
-hash, 3
+hash, 4
 functions, 3
 progress, 3
 possibility, 3

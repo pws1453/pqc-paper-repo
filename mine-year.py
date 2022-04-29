@@ -58,7 +58,7 @@ def abstractSan(abstract):
 
 def main():
     frequencydict = dict()
-    with open(csvfile) as f:
+    with open(csvfile,encoding="utf8") as f:
         read = csv.reader(f)
         for row in read:
             abstract = row[0]
