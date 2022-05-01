@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software as part of a software project, or to guide a research project, please cite it as below."
+authors:
+- family-names: "Sergent"
+  given-names: "Preston"
+- family-names: "Richez"
+  given-names: "Bryan"
+- family-names: "Krempa"
+  given-names: "Alexa"
+- family-names: "Benoist"
+  given-names: "Sam"
+- family-names: "Shah"
+  given-names: "Jay"
+title: "Trend Analyzing Algorithm designed alongside "A Survey of Zero-Knowledge Proofs in a Post-Quantum Context"
+version: 1.0.0
+doi: 10.5281/zenodo.6510302
+date-released: 2022-05-01
+url: "https://github.com/pws1453/pqc-paper-repo"
