@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/486460500.svg)](https://zenodo.org/badge/latestdoi/486460500)
 # Trend Analyzing Algorithm designed alongside "A Survey of Zero-Knowledge Proofs in a Post-Quantum Context"
 ## An Overview
 This script is designed to mine the abstracts in the 'abstracts.csv' file, to find common words or phrases within them. These abstracts will be separated by the year. Keyphrases or keywords will only be recorded if they occur in more than one paper, as to avoid recording words or phrases unique to a single paper. 
