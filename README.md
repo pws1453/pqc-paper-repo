@@ -19,6 +19,10 @@ This script is designed to mine the abstracts in the 'abstracts.csv' file, to fi
 
 `mine-year.py` is the main python script. There are no arguments or options.
 
+## Usage
+
+`python3 mine-year.py`
+
 
 ## Procedures used
 To derive the results located in the 'unsorted-sanitized', run the script. 
